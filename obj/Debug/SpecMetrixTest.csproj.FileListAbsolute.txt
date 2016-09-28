@@ -1,0 +1,1 @@
+c:\users\russe\documents\visual studio 2015\Projects\SpecMetrixTest\SpecMetrixTest\bin\Debug\SpecMetrixTest.exe.config
